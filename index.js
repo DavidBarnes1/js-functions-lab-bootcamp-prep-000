@@ -3,7 +3,8 @@ var happyHolidays = function happyHolidays(){
 };
 
 var happyHolidaysTo = function happyHolidaysTo(name){
+ happyHolidaysTo("David")
  return "Happy holidays, ${name}!";
+
 };
 
-happyHolidaysTo("David")
