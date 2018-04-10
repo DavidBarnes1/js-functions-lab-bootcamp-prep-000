@@ -2,6 +2,6 @@ var happyHolidays = function happyHolidays(){
   return "Happy holidays!";
 };
 
- function happyHolidaysTo(you){
+ function happyHolidaysTo(David){
  return ("Happy holidays, ${name}!")
 }
